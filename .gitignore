@@ -4,5 +4,6 @@ __pycache__/
 config.json
 *.log
 last_fetch_state.json
+nul
 .vscode/
 .idea/
